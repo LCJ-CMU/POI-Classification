@@ -12,6 +12,6 @@ Evaluation: Best Trial: SVM with word embedding feature: total accuracy = 79% - 
 
 Suggestion: Name feature is not adequate for POI classification, names may not suggest information on category classification, for example: {Hilliard, Industrial}
 
-[1] data.world. (2018, May 18). Points of interest - dataset by smartcolumbusos. data.world. Retrieved May 6, 2023, from https://data.world/smartcolumbusos/5d869207-e885- 4f50-aecc-7ee1a7dd9e40 
+[1] data.world. (2018, May 18). Points of interest - dataset by smartcolumbusos. data.world. Retrieved May 6, 2023, from https://data.world/smartcolumbusos/5d869207-e885-4f50-aecc-7ee1a7dd9e40 
 
 [2] Google. (2017, December 11). GoogleNews-vectors-negative300. Kaggle. Retrieved May 6, 2023, from https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300 
