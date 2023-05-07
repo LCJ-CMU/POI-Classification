@@ -9,7 +9,7 @@ Feature extraction: word2vec by pre-trained NLP model (embedding)[2]; Bag-of-Wor
 Classification: Adaboost Classification, Random Forest, Support Vector Machine
 
 Evaluation: Best Trial: SVM with word embedding feature: total accuracy = 79% - single class accuary>50%
-
+![Confusion Matrix](https://github.com/LCJ-CMU/POI-Classification/blob/main/result/cm_svm_e.png)
 Suggestion: Name feature is not adequate for POI classification, names may not suggest information on category classification, for example: {Hilliard, Industrial}
 
 [1] data.world. (2018, May 18). Points of interest - dataset by smartcolumbusos. data.world. Retrieved May 6, 2023, from https://data.world/smartcolumbusos/5d869207-e885-4f50-aecc-7ee1a7dd9e40 
