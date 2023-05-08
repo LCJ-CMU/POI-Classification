@@ -1,6 +1,8 @@
 # POI-Classification 
 The POI dataset used is from data.world.[1] POI (point of interest) contains information/description of multiple geographical locations (name, coordinate, category...)
 The dataset contains (name, category) info. of 13004 geographical locations from 10 categories. We implement M-ary classification on the dataset only based on the name of locations. The project is contains data preprocessing, feature extraction, classification and evaluation.
+![Confusion Matrix](https://github.com/LCJ-CMU/POI-Classification/blob/main/result/word%20frequency.png)
+
 
 Data preprocessing: tokenizing text into words, upsampling and downsampling to obtain balanced dataset.
 
