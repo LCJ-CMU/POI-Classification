@@ -22,5 +22,4 @@ Suggestion: Name feature is not adequate for POI classification, names may not s
 
 [2] Google. (2017, December 11). GoogleNews-vectors-negative300. Kaggle. Retrieved May 6, 2023, from https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300 
 
-<img src="https://github.com/LCJ-CMU/POI-Classification/blob/main/result/word%20frequency.png" alt="alt text" width="500">
-<img src="https://github.com/LCJ-CMU/POI-Classification/blob/main/result/cm_svm_e.png" alt="alt text" width="500">
+
